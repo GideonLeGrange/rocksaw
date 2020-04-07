@@ -159,7 +159,7 @@
               <outputDirectory>${project.build.outputDirectory}</outputDirectory>
               <resources>
                 <resource>
-                  <directory>${basedir}/target/native</directory>
+                  <directory>${basedir}/target/libs</directory>
                   <filtering>false</filtering>
                 </resource>
               </resources>
